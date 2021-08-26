@@ -10,6 +10,7 @@
 > I like to use `TailwindCSS` && `Bootstrap` for frontend of my websites.
 > 
 > Prefer using later versions of **PHP** (PHP 7.4 and above), the same about `Laravel`.
+> 
 > For database setup I use `MySQL`, `PostgreSQL`.
 > 
 > I love to learn something new everyday and also use it in my daily life.
