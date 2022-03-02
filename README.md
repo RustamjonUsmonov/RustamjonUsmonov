@@ -1,6 +1,7 @@
 <div align="center">
   
-# 🧐 About Me
+# 🧐 About Me <br>[![Profile views](https://gpvc.arturio.dev/RustamjonUsmonov)](#)
+
 </div>
 
 
@@ -14,8 +15,19 @@
 > For database setup I use `MySQL`, `PostgreSQL`.
 > 
 > I love to learn something new everyday and also use it in my daily life.
+> 
+> **More info about me [RESUME](https://belgorod.hh.ru/resume/5ebdcf7cff085362f90039ed1f46686f474930)**
 
-**More info about me [RESUME](https://belgorod.hh.ru/resume/5ebdcf7cff085362f90039ed1f46686f474930)**
+
+<div align="center">    
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=RustamjonUsmonov&theme=algolia&margin-w=0)](#)
+  
+<br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamjonUsmonov&theme=algolia&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)
+</div>
+
 <!--
 **RustamjonUsmonov/RustamjonUsmonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
