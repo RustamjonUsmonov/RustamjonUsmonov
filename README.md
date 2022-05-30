@@ -24,8 +24,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RustamjonUsmonov&theme=algolia&margin-w=0)](#)
   
 <br>
+
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamjonUsmonov&theme=algolia&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)
+  |  |  |
+| ------------- | ------------- |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RustamjonUsmonov&theme=monokai)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamjonUsmonov&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)  |
+|  ![RJUSM's GitHub stats](https://github-readme-stats.vercel.app/api?username=RustamjonUsmonov&theme=prussian&show_icons=true&count_private=true) |   |
+
 </div>
 
 <!--
