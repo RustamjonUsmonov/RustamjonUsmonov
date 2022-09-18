@@ -7,7 +7,8 @@
 
 > I'm Rustam. I'm web-developer, backend :metal:. I really enjoy using **Laravel**
 > 
-> Currently I'm studying in Kazan Federal University, ITIS, 4 grade bachelor.
+> Currently I'm studying in Kazan Federal University, ITIS, 1 grade master. Already have Bachelor degree from the same univirsity :)
+>
 > I like to use `TailwindCSS` && `Bootstrap` for frontend of my websites.
 > 
 > Prefer using later versions of **PHP** (PHP 7.4 and above), the same about `Laravel`.
@@ -26,9 +27,9 @@
 <br>
 
   
-  |  |  |
-| ------------- | ------------- |
+
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RustamjonUsmonov&theme=monokai)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamjonUsmonov&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)  |
+| ------------- | ------------- |
 |  ![RJUSM's GitHub stats](https://github-readme-stats.vercel.app/api?username=RustamjonUsmonov&theme=prussian&show_icons=true&count_private=true) |   |
 
 </div>
