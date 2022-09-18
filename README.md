@@ -7,7 +7,7 @@
 
 > I'm Rustam. I'm web-developer, backend :metal:. I really enjoy using **Laravel**
 > 
-> Currently I'm studying in Kazan Federal University, ITIS, 1 grade master. Already have Bachelor degree from the same univirsity :)
+> Currently I'm studying in Kazan Federal University, ITIS, 1 grade master. Already have Bachelor degree from the same university :)
 >
 > I like to use `TailwindCSS` && `Bootstrap` for frontend of my websites.
 > 
